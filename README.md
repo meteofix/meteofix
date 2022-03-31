@@ -3,13 +3,14 @@
 
 ### Languages and Tehnologies
 ![Javascript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
-![ReactJs](https://img.shields.io/badge/-REACTJS-090909?style=for-the-badge&logo=react)
+![Typescript](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-NEXT.JS-090909?style=for-the-badge&logo=next.js)
 ![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 ![MobX](https://img.shields.io/badge/-MOBX-090909?style=for-the-badge&logo=mobx)
-![RestAPI](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/-FIREBASE-090909?style=for-the-badge&logo=firebase)
-![Html](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![Css](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+![Html](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
+![Css](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
 
 ### ✉️ Mail me: meteofix@gmail.com
 ### 🌐 Telegram: [@meteofix](https://t.me/meteofix)
