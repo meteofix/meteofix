@@ -9,13 +9,15 @@
 ![Redux](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 ![MobX](https://img.shields.io/badge/-MOBX-090909?style=for-the-badge&logo=mobx)
 ![Firebase](https://img.shields.io/badge/-FIREBASE-090909?style=for-the-badge&logo=firebase)
-![Html](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)
-![Css](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3)
+![Strapi](https://img.shields.io/badge/-STRAPI-090909?style=for-the-badge&logo=strapi)
+![Css](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=css3)
+<!-- ![Html](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)-->
 
-### ✉️ Mail me: meteofix@gmail.com
-### 🌐 Telegram: [@meteofix](https://t.me/meteofix)
+### ✉️ Mail me: meteofix.work@gmail.com
 
 <!--
+### 🌐 Telegram: [@meteofix](https://t.me/meteofix)
+
 **meteofix/meteofix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
