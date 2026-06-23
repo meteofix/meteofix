@@ -1,5 +1,5 @@
 # My name is **Dmytro Vashchuk**.
-## I'm a front-end developer from Kyiv.
+## I'm a Senior Front-end engineer from Kyiv.
 
 ### Languages and Tehnologies
 ![Javascript](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=javascript)
